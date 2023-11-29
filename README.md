@@ -1,4 +1,5 @@
 # postgres-backup-gcs
+Responsible: #DevOps
 
 Create a backup of a specified postgres db to Google Cloud Storage
 
